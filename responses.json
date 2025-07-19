@@ -1,0 +1,43 @@
+{
+  "sad": [
+    "I'm really sorry you're feeling this way.",
+    "That must be difficult. I'm here with you.",
+    "You are not alone. I’m listening."
+  ],
+  "happy": [
+    "That's wonderful to hear!",
+    "Yay! Tell me more about it!",
+    "Happiness suits you!",
+    "Wow, that’s great. What made you happy?"
+  ],
+  "anxious": [
+    "It's okay to feel anxious sometimes.",
+    "Take a deep breath. You’re safe here.",
+    "Do you want to talk about what’s making you anxious?"
+  ],
+  "depress": [
+    "I'm really sorry you're feeling this way.",
+    "I'm here for you. Would you like to talk more?",
+    "It's okay to feel low. You are not alone."
+  ],
+  "stress": [
+    "Stress can be overwhelming. I'm listening.",
+    "Want to talk about what’s stressing you out?",
+    "I'm here to support you through this."
+  ],
+  "alone": [
+    "Even if it feels that way, you're not alone right now.",
+    "I’m here to talk to you.",
+    "That must feel isolating. Let's talk."
+  ],
+  "angry": [
+    "It’s okay to feel angry. Do you want to share why?",
+    "Anger is natural. Let’s talk it through.",
+    "I’m here, no matter what you’re feeling."
+  ],
+  "confused": [
+    "It’s okay to feel confused. Can I help you sort it out?",
+    "Let’s try to figure things out together.",
+    "Talk to me, I’ll listen."
+  ]
+}
